@@ -1,3 +1,17 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
 body {
-    color: black;
+    background-color: #fff;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+
+.row {
+    width: 1140px;
+    background-color: cornflowerblue;
+    margin: 100px 0 0 100px;
 }
